@@ -207,9 +207,7 @@ function tablaDelSeis(){
   for (var i = 0 ; i <= 10 ; i++){
     tablaDelSeis.push(6*i)
   }
-  return tablaDelSeis;
-
-}
+  return tablaDelSeis;}
 
 function tieneTresDigitos(numero){
   //Leer un número entero y retornar true si tiene 3 dígitos. Caso contrario, retorna false.
