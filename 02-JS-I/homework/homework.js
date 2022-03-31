@@ -28,7 +28,7 @@ const nuevoModulo = 21 % 5 === 1 ;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
-  return str ;
+  return str  ;
 }
 
 function suma(x, y) {
@@ -235,10 +235,7 @@ function deEuroAdolar(euro){
   //Supongamos que 1 euro equivale a 1.20 dólares. Escribe un programa que reciba
   //como parámetro un número de euros y calcule el cambio en dólares.
   //Escribe tu código aquí
-return euro * 1.20 ; 
-
-
-}
+return euro * 1.20 ;}
 
 
 function esVocal(letra){
@@ -253,11 +250,7 @@ function esVocal(letra){
   if (letra.length > 1) {
 return "Dato incorrecto"
   }
-    return "Dato incorrecto" 
-  
-
-
-}
+    return "Dato incorrecto" }
 
 
 
